@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rinkeby-btd-token/static/css/main.b100e6da.chunk.css",
+    "main.js": "/rinkeby-btd-token/static/js/main.7ca30987.chunk.js",
+    "main.js.map": "/rinkeby-btd-token/static/js/main.7ca30987.chunk.js.map",
+    "runtime-main.js": "/rinkeby-btd-token/static/js/runtime-main.d0941165.js",
+    "runtime-main.js.map": "/rinkeby-btd-token/static/js/runtime-main.d0941165.js.map",
+    "static/js/2.738dd687.chunk.js": "/rinkeby-btd-token/static/js/2.738dd687.chunk.js",
+    "static/js/2.738dd687.chunk.js.map": "/rinkeby-btd-token/static/js/2.738dd687.chunk.js.map",
+    "index.html": "/rinkeby-btd-token/index.html",
+    "precache-manifest.a34d3caffbfabe9aa7744c73450eaf1d.js": "/rinkeby-btd-token/precache-manifest.a34d3caffbfabe9aa7744c73450eaf1d.js",
+    "service-worker.js": "/rinkeby-btd-token/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/rinkeby-btd-token/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0941165.js",
+    "static/js/2.738dd687.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7ca30987.chunk.js"
+  ]
+}
